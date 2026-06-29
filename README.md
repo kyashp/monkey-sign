@@ -16,7 +16,11 @@ MonkeySign is a SGSL speed signing platform inspired by Monkeytype
 
 ## Tech Stack
 
-TBC
+- Data Collection: Python
+- Frontend: Angular + Mediapipe (Feature Extractor) + TensorFlow.js (Run My Model)
+- Backend: Supabase
+- ML Model: Python, TensorFlow
+- Hosting: Vercel
 
 ## Features
 
